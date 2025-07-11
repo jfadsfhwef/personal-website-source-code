@@ -44,8 +44,8 @@ Before you begin, make sure you have the following installed on your computer:
 ### Step 1: Download the Project
 ```bash
 # Option A: If you have git installed
-git clone [your-repository-url]
-cd portfolio-website
+git clone https://github.com/jfadsfhwef/personal-website-source-code.git
+cd personal-website-source-code
 
 # Option B: Download ZIP file
 # Download the ZIP file from the repository and extract it
